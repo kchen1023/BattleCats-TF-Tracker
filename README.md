@@ -1,0 +1,1 @@
+I recently started playing Battle Cats (PONOS) and I got annoyed about having to keep checking how much materials I needed to collect to evolve a cat to its "true form" (TF). I'm making this app as a way to help me keep track of my fruits and determine how much I'll have to grind for each fruit (and the seeds).
