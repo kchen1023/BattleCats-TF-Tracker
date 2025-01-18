@@ -1,0 +1,125 @@
+{
+    "Rare": {
+        "Archer Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        }
+    },
+    "Super_Rare": {
+        "Apple Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        }
+    },
+    "Uber_Rare": {
+        "Akira": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        }
+    }
+}
