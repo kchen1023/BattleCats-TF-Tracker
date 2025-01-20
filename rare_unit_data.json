@@ -1,0 +1,862 @@
+{
+    "Rare": {
+        "Archer Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Bishop Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Cat Gunslinger": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Fortune Teller Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Gardener Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Jurassic Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Li'l Gau": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Matador Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Mer-cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Onmyoji Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Pirate Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Pogo Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Psycho Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Rocker Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Rover Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Sakura the Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Salon Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Shaman Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Stilts Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Swordsman Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Thief Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        },
+        "Tin Cat": {
+            "Seeds": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Fruit": {
+                "Green": 0,
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Yellow": 0,
+                "Epic": 0,
+                "Aku": 0,
+                "Elder": 0,
+                "Gold": 0
+            },
+            "Behemoth_Stone": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0,
+                "Epic": 0
+            },
+            "Behemoth_Gem": {
+                "Purple": 0,
+                "Red": 0,
+                "Blue": 0,
+                "Green": 0,
+                "Yellow": 0
+            }
+        }
+    }
+}
