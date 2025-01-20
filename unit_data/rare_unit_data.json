@@ -3,17 +3,17 @@
         "Archer Cat": {
             "Seeds": {
                 "Green": 0,
-                "Purple": 0,
-                "Red": 0,
-                "Blue": 0,
-                "Yellow": 0,
+                "Purple": 1,
+                "Red": 2,
+                "Blue": 3,
+                "Yellow": 2,
                 "Epic": 0,
                 "Aku": 0,
                 "Elder": 0,
                 "Gold": 0
             },
             "Fruit": {
-                "Green": 0,
+                "Green": 1,
                 "Purple": 0,
                 "Red": 0,
                 "Blue": 0,
@@ -42,17 +42,17 @@
         "Bishop Cat": {
             "Seeds": {
                 "Green": 0,
-                "Purple": 0,
-                "Red": 0,
-                "Blue": 0,
-                "Yellow": 0,
+                "Purple": 1,
+                "Red": 2,
+                "Blue": 2,
+                "Yellow": 3,
                 "Epic": 0,
                 "Aku": 0,
                 "Elder": 0,
                 "Gold": 0
             },
             "Fruit": {
-                "Green": 0,
+                "Green": 2,
                 "Purple": 0,
                 "Red": 0,
                 "Blue": 0,
@@ -80,11 +80,11 @@
         },
         "Cat Gunslinger": {
             "Seeds": {
-                "Green": 0,
+                "Green": 1,
                 "Purple": 0,
-                "Red": 0,
-                "Blue": 0,
-                "Yellow": 0,
+                "Red": 2,
+                "Blue": 3,
+                "Yellow": 2,
                 "Epic": 0,
                 "Aku": 0,
                 "Elder": 0,
@@ -92,7 +92,7 @@
             },
             "Fruit": {
                 "Green": 0,
-                "Purple": 0,
+                "Purple": 2,
                 "Red": 0,
                 "Blue": 0,
                 "Yellow": 0,
@@ -120,17 +120,17 @@
         "Fortune Teller Cat": {
             "Seeds": {
                 "Green": 0,
-                "Purple": 0,
-                "Red": 0,
-                "Blue": 0,
-                "Yellow": 0,
+                "Purple": 1,
+                "Red": 3,
+                "Blue": 2,
+                "Yellow": 2,
                 "Epic": 0,
                 "Aku": 0,
                 "Elder": 0,
                 "Gold": 0
             },
             "Fruit": {
-                "Green": 0,
+                "Green": 2,
                 "Purple": 0,
                 "Red": 0,
                 "Blue": 0,
